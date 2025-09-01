@@ -19,7 +19,7 @@ The project aims to leverage Power BI's capabilities to provide a centralized pl
 - **Development Environment**: Power BI Desktop for design and Microsoft Power BI Service for deployment.
 
 ## Explore Interactive Dashboard
-- `.pbix` file [Healthcare Analysis.pbix](Healthcare Analysis.pbix) available for download. 📥
+- `.pbix` file [Healthcare_Analysis.pbix](Healthcare_Analysis.pbix) available for download. 📥
 
 ## Conclusion
 The Hospital Monitoring Dashboard, built with Power BI, offers a robust tool for healthcare management by visualizing critical metrics and trends. Future enhancements could include real-time data updates and advanced predictive analytics to further support strategic planning.
